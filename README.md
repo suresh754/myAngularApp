@@ -1,0 +1,2 @@
+# myAngularApp
+For learining Angular 
